@@ -115,6 +115,22 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 - 📚 [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction)
 - 🎓 [Building LLM Apps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
+### Tutorials (English)
+
+- [How to Set Up Your Own AI Assistant](https://gist.github.com/xufei547/7057fdfd8d68a9eb73adfb4b827457bb) - Complete setup guide
+- [Top 10 AI Assistants Comparison](https://gist.github.com/xufei547/cc1e6c3faa15b4ae87b32fdc485e1152) - Detailed comparison
+- [WhatsApp AI Bot Tutorial](https://gist.github.com/xufei547/24b5abb99790604a08f2b4944ade48df) - Build a WhatsApp bot
+- [Telegram AI Bot Tutorial](https://gist.github.com/xufei547/bd1a685174a96ec8e6d7310c05d71f22) - Build a Telegram bot
+
+### 中文教程
+
+- [如何搭建自己的AI个人助手](https://gist.github.com/xufei547/84a30639efc41347c6b4d81869bc8d65) - 完整中文教程
+- [Telegram AI Bot 开发教程](https://gist.github.com/xufei547/bd1a685174a96ec8e6d7310c05d71f22) - 从零开始
+
+### Code Examples
+
+- [AI Assistant Examples](https://github.com/xufei547/ai-assistant-examples) - Code examples for WhatsApp, Telegram, Discord bots
+
 ### Articles & Guides
 
 - [What are AI Agents?](https://www.promptingguide.ai/research/llm-agents) - Comprehensive guide to LLM agents
